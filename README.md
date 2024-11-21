@@ -1,8 +1,11 @@
 ### mobsf install
-setup.bat
 ---
+`setup.bat`
+
 ### mobsf execution
 ---
-run.bat
+`run.bat`
+
 ### sandbox execution
-python mobsf.py
+---
+`python mobsf.py`
