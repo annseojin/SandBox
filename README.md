@@ -6,3 +6,6 @@
 
 ### sandbox execution
 `python mobsf.py`
+
+### Preferences
+`cofig.py`
